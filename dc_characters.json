@@ -1,0 +1,92 @@
+[
+  {
+    "character_id": 1,
+    "real_name": "Clark Kent",
+    "alias": "Superman",
+    "universe": "DC",
+    "alignment": "Hero",
+    "powers": ["Super strength", "Heat vision", "Flight", "X-ray vision"],
+    "first_appearance_year": 1938
+  },
+  {
+    "character_id": 2,
+    "real_name": "Bruce Wayne",
+    "alias": "Batman",
+    "universe": "DC",
+    "alignment": "Hero",
+    "powers": ["Peak human intelligence", "Martial arts", "Gadgets"],
+    "first_appearance_year": 1939
+  },
+  {
+    "character_id": 3,
+    "real_name": "Diana Prince",
+    "alias": "Wonder Woman",
+    "universe": "DC",
+    "alignment": "Hero",
+    "powers": ["Super strength", "Lasso of Truth", "Flight"],
+    "first_appearance_year": 1941
+  },
+  {
+    "character_id": 4,
+    "real_name": "Arthur Curry",
+    "alias": "Aquaman",
+    "universe": "DC",
+    "alignment": "Hero",
+    "powers": ["Underwater breathing", "Telepathy with sea life", "Super strength"],
+    "first_appearance_year": 1941
+  },
+  {
+    "character_id": 5,
+    "real_name": "Barry Allen",
+    "alias": "The Flash",
+    "universe": "DC",
+    "alignment": "Hero",
+    "powers": ["Super speed", "Time travel"],
+    "first_appearance_year": 1956
+  },
+  {
+    "character_id": 6,
+    "real_name": "Hal Jordan",
+    "alias": "Green Lantern",
+    "universe": "DC",
+    "alignment": "Hero",
+    "powers": ["Power ring constructs", "Flight", "Energy projection"],
+    "first_appearance_year": 1959
+  },
+  {
+    "character_id": 7,
+    "real_name": "Victor Stone",
+    "alias": "Cyborg",
+    "universe": "DC",
+    "alignment": "Hero",
+    "powers": ["Cybernetic enhancements", "Technopathy", "Super strength"],
+    "first_appearance_year": 1980
+  },
+  {
+    "character_id": 8,
+    "real_name": "Billy Batson",
+    "alias": "Shazam",
+    "universe": "DC",
+    "alignment": "Hero",
+    "powers": ["Magic lightning", "Super strength", "Flight"],
+    "first_appearance_year": 1940
+  },
+  {
+    "character_id": 9,
+    "real_name": "Harleen Quinzel",
+    "alias": "Harley Quinn",
+    "universe": "DC",
+    "alignment": "Anti-Hero",
+    "powers": ["Agility", "Acrobatics", "Psychological manipulation"],
+    "first_appearance_year": 1992
+  },
+  {
+    "character_id": 10,
+    "real_name": "Unknown",
+    "alias": "Joker",
+    "universe": "DC",
+    "alignment": "Villain",
+    "powers": ["Criminal mastermind", "Chemical expertise"],
+    "first_appearance_year": 1940
+  }
+]
